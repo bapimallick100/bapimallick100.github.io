@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1> Portfolio is comming soon</h1>
+      <h1> Portfolio is comming soon from master @17.41</h1>
     </div>
   );
 }
