@@ -30,7 +30,7 @@ const background = [
                 id: 1,
                 title: '',
                 role: '',
-                url: '',
+                url: '#',
                 desc: '',
                 year: '',
                 location: ''
@@ -39,7 +39,7 @@ const background = [
                 id: 2,
                 title: '',
                 role: '',
-                url: '',
+                url: '#',
                 desc: '',
                 year: '',
                 location: ''
@@ -48,7 +48,7 @@ const background = [
                 id: 3,
                 title: '',
                 role: '',
-                url: '',
+                url: '#',
                 desc: "",
                 year: '',
                 location: ''
