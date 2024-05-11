@@ -3,7 +3,7 @@ const recommendationCard = [
   {
     id: 0,
     name: '',
-    image: "",
+    image: "images/testImage.jpeg",
     designation: '',
     view: "",
     linkednURL: ""
@@ -11,7 +11,7 @@ const recommendationCard = [
   {
     id: 1,
     name: 't',
-    image: "",
+    image: "images/testImage.jpeg",
     designation: '',
     view: "",
     linkednURL: ""
@@ -19,7 +19,7 @@ const recommendationCard = [
   {
     id: 2,
     name: '',
-    image: "",
+    image: "images/testImage.jpeg",
     designation: '',
     view: "",
     linkednURL: ""
@@ -27,7 +27,7 @@ const recommendationCard = [
   {
     id: 3,
     name: '',
-    image: "",
+    image: "images/testImage.jpeg",
     designation: '',
     view: "",
     linkednURL: "/"

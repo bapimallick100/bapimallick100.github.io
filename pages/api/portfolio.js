@@ -2,8 +2,8 @@ const portfolio = [
     {
         id: 0,
         projectName: "",
-        url: "",
-        image: "",
+        url: "#",
+        image: "images/testImage.jpeg",
         projectDetail: "",
         technologiesUsed: [
             {
@@ -26,8 +26,8 @@ const portfolio = [
     {
         id: 0,
         projectName: "",
-        url: "",
-        image: "",
+        url: "#",
+        image: "images/testImage.jpeg",
         projectDetail: "",
         technologiesUsed: [
             {
@@ -44,8 +44,8 @@ const portfolio = [
     {
         id: 0,
         projectName: "",
-        url: "",
-        image: "",
+        url: "#",
+        image: "images/testImage.jpeg",
         projectDetail: "",
         technologiesUsed: [
             {
@@ -68,8 +68,8 @@ const portfolio = [
     {
         id: 0,
         projectName: "ALSN",
-        url: "",
-        image: "",
+        url: "#",
+        image: "images/testImage.jpeg",
         projectDetail: "",
         technologiesUsed: [
             {
@@ -92,8 +92,8 @@ const portfolio = [
     {
         id: 0,
         projectName: "",
-        url: "",
-        image: "",
+        url: "#",
+        image: "images/testImage.jpeg",
         projectDetail: "",
         technologiesUsed: [
             {
@@ -116,8 +116,8 @@ const portfolio = [
     {
         id: 0,
         projectName: "",
-        url: "",
-        image: "",
+        url: "#",
+        image: "images/testImage.jpeg",
         projectDetail: "",
         technologiesUsed: [
             {
@@ -139,9 +139,9 @@ const portfolio = [
     },
     {
         id: 0,
-        projectName: "",
-        url: "",
-        image: "",
+        projectName: "#",
+        url: "#",
+        image: "images/testImage.jpeg",
         projectDetail: "",
         technologiesUsed: [
             {
@@ -164,8 +164,8 @@ const portfolio = [
     {
         id: 1,
         projectName: "",
-        url: "",
-        image: "",
+        url: "#",
+        image: "images/testImage.jpeg",
         projectDetail: "",
         technologiesUsed: [
             {
@@ -188,8 +188,8 @@ const portfolio = [
     {
         id: 2,
         projectName: "",
-        url: "",
-        image: "",
+        url: "#",
+        image: "images/testImage.jpeg",
         projectDetail: "",
         technologiesUsed: [
             {
