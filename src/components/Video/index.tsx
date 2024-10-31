@@ -14,7 +14,7 @@ const Video = () => {
       <div className="container">
         <SectionTitle
           title="We are ready to help"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          paragraph="At Mangol Group, we understand the unique challenges businesses face in today's digital landscape. Our dedicated team is here to provide support and guidance every step of the way. Whether you need assistance with website development, app customization, or thermal printer integration, we have the expertise to ensure your success. Don’t hesitate to reach out; we’re committed to helping you achieve your goals."
           center
           mb="80px"
         />
